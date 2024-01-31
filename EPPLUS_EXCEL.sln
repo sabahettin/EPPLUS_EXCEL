@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPPLUS_EXCEL", "EPPLUS_EXCEL\EPPLUS_EXCEL.csproj", "{BB323B5B-A8C9-43AE-B279-241F95D1EE9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4879608B-5FE7-4756-B350-A687A597A5AA}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMetxt.txt = ReadMetxt.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB323B5B-A8C9-43AE-B279-241F95D1EE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB323B5B-A8C9-43AE-B279-241F95D1EE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB323B5B-A8C9-43AE-B279-241F95D1EE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB323B5B-A8C9-43AE-B279-241F95D1EE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08AAAA3-89BE-4123-8D04-DEA04789FC61}
+	EndGlobalSection
+EndGlobal
